@@ -12,3 +12,4 @@ jobs:
       shield: '["corne_left","corne_right"]'
       nav: '["invertedt"]'
       kconfig: '["CONFIG_ZMK_POINTING=y"]'
+      branches: '["zmkfirmware/zmk/v0.3"]'
